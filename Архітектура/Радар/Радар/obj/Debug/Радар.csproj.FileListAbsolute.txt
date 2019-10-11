@@ -1,0 +1,51 @@
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\bin\Debug\Радар.exe.config
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\bin\Debug\Радар.exe
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\bin\Debug\Радар.pdb
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\MainWindow.g.cs
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\App.g.cs
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар_MarkupCompile.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар_MarkupCompile.lref
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\MainWindow.baml
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.g.resources
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.Properties.Resources.resources
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.csproj.GenerateResource.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.exe
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\Радар.pdb
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\WinRadar.g.cs
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Debug\WinRadar.baml
+D:\Радар\Радар\bin\Debug\Радар.exe.config
+D:\Радар\Радар\bin\Debug\Радар.exe
+D:\Радар\Радар\bin\Debug\Радар.pdb
+D:\Радар\Радар\obj\Debug\Радар.csprojResolveAssemblyReference.cache
+D:\Радар\Радар\obj\Debug\MainWindow.g.cs
+D:\Радар\Радар\obj\Debug\WinRadar.g.cs
+D:\Радар\Радар\obj\Debug\App.g.cs
+D:\Радар\Радар\obj\Debug\Радар_MarkupCompile.cache
+D:\Радар\Радар\obj\Debug\Радар_MarkupCompile.lref
+D:\Радар\Радар\obj\Debug\MainWindow.baml
+D:\Радар\Радар\obj\Debug\WinRadar.baml
+D:\Радар\Радар\obj\Debug\Радар.g.resources
+D:\Радар\Радар\obj\Debug\Радар.Properties.Resources.resources
+D:\Радар\Радар\obj\Debug\Радар.csproj.GenerateResource.cache
+D:\Радар\Радар\obj\Debug\Радар.csproj.CoreCompileInputs.cache
+D:\Радар\Радар\obj\Debug\Радар.exe
+D:\Радар\Радар\obj\Debug\Радар.pdb
+H:\Радар\Радар\bin\Debug\Радар.exe.config
+H:\Радар\Радар\bin\Debug\Радар.exe
+H:\Радар\Радар\bin\Debug\Радар.pdb
+H:\Радар\Радар\obj\Debug\Радар.csprojAssemblyReference.cache
+H:\Радар\Радар\obj\Debug\MainWindow.g.cs
+H:\Радар\Радар\obj\Debug\WinRadar.g.cs
+H:\Радар\Радар\obj\Debug\App.g.cs
+H:\Радар\Радар\obj\Debug\Радар_MarkupCompile.cache
+H:\Радар\Радар\obj\Debug\Радар_MarkupCompile.lref
+H:\Радар\Радар\obj\Debug\MainWindow.baml
+H:\Радар\Радар\obj\Debug\WinRadar.baml
+H:\Радар\Радар\obj\Debug\Радар.g.resources
+H:\Радар\Радар\obj\Debug\Радар.Properties.Resources.resources
+H:\Радар\Радар\obj\Debug\Радар.csproj.GenerateResource.cache
+H:\Радар\Радар\obj\Debug\Радар.csproj.CoreCompileInputs.cache
+H:\Радар\Радар\obj\Debug\Радар.exe
+H:\Радар\Радар\obj\Debug\Радар.pdb

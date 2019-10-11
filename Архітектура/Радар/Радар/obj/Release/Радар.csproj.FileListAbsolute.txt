@@ -1,0 +1,51 @@
+D:\Радар\Радар\bin\Release\Радар.exe.config
+D:\Радар\Радар\bin\Release\Радар.exe
+D:\Радар\Радар\bin\Release\Радар.pdb
+D:\Радар\Радар\obj\Release\MainWindow.g.cs
+D:\Радар\Радар\obj\Release\WinRadar.g.cs
+D:\Радар\Радар\obj\Release\App.g.cs
+D:\Радар\Радар\obj\Release\Радар_MarkupCompile.cache
+D:\Радар\Радар\obj\Release\Радар_MarkupCompile.lref
+D:\Радар\Радар\obj\Release\MainWindow.baml
+D:\Радар\Радар\obj\Release\WinRadar.baml
+D:\Радар\Радар\obj\Release\Радар.g.resources
+D:\Радар\Радар\obj\Release\Радар.Properties.Resources.resources
+D:\Радар\Радар\obj\Release\Радар.csproj.GenerateResource.cache
+D:\Радар\Радар\obj\Release\Радар.csproj.CoreCompileInputs.cache
+D:\Радар\Радар\obj\Release\Радар.exe
+D:\Радар\Радар\obj\Release\Радар.pdb
+D:\Радар\Радар\obj\Release\Радар.csprojResolveAssemblyReference.cache
+H:\Радар\Радар\bin\Release\Радар.exe.config
+H:\Радар\Радар\bin\Release\Радар.exe
+H:\Радар\Радар\bin\Release\Радар.pdb
+H:\Радар\Радар\obj\Release\Радар.csprojAssemblyReference.cache
+H:\Радар\Радар\obj\Release\MainWindow.g.cs
+H:\Радар\Радар\obj\Release\WinRadar.g.cs
+H:\Радар\Радар\obj\Release\App.g.cs
+H:\Радар\Радар\obj\Release\Радар_MarkupCompile.cache
+H:\Радар\Радар\obj\Release\Радар_MarkupCompile.lref
+H:\Радар\Радар\obj\Release\MainWindow.baml
+H:\Радар\Радар\obj\Release\WinRadar.baml
+H:\Радар\Радар\obj\Release\Радар.g.resources
+H:\Радар\Радар\obj\Release\Радар.Properties.Resources.resources
+H:\Радар\Радар\obj\Release\Радар.csproj.GenerateResource.cache
+H:\Радар\Радар\obj\Release\Радар.csproj.CoreCompileInputs.cache
+H:\Радар\Радар\obj\Release\Радар.exe
+H:\Радар\Радар\obj\Release\Радар.pdb
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\bin\Release\Радар.exe.config
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\bin\Release\Радар.exe
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\bin\Release\Радар.pdb
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\MainWindow.g.cs
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\WinRadar.g.cs
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\App.g.cs
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар_MarkupCompile.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар_MarkupCompile.lref
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\MainWindow.baml
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\WinRadar.baml
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.g.resources
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.Properties.Resources.resources
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.csproj.GenerateResource.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.exe
+C:\Users\Віктор\Desktop\Курсова робота\Архітектура\Радар\Радар\obj\Release\Радар.pdb
